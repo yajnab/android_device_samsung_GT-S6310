@@ -1,0 +1,7 @@
+Unnoficial CM11 for ROYSS
+First Donwload source:
+repo init -u 
+repo sync
+source build/envsetup.sh
+lunch cm_royss-userdebug
+make
