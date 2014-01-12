@@ -31,3 +31,7 @@ PRODUCT_COPY_FILES += \
 endif
 
 $(call inherit-product, vendor/samsung/msm7x27a/msm7x27a-common/blobs.mk)
+$(call inherit-product, vendor/samsung/royss/blobs.mk)
+
+
+$(call inherit-product, vendor/samsung/msm7x27a/msm7x27a-common/blobs.mk)
